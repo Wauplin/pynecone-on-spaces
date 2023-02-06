@@ -196,6 +196,7 @@ def deploy(
         )
 
     print("Your app has been successfully deployed!")
+    print(f"Check it out: {space_url_embed}")
 
 
 def cli_run():
